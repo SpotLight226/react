@@ -1,0 +1,5 @@
+.warp {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
